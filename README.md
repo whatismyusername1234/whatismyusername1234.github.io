@@ -1,4 +1,4 @@
-hi<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <title>Clap for Medhansh</title>
